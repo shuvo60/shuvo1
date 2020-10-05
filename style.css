@@ -1,0 +1,32 @@
+p{background:red;
+font-size:20px;
+padding:5px;
+color:white;
+display:inline:}
+button{
+	width:200px;
+	height:40px;
+	background:red;
+	text-transform:uppercase;
+	color:white;
+	font-size:15px;
+	font-weight:10px;
+	
+}
+body{
+
+	font-weight:10px;
+}
+#panel{
+	width:500px;
+	height:200px;
+	background:blue;
+}
+
+
+
+.parent * {display:block;
+	border:1px solid black;
+	padding:5px;
+	margin:5px;
+}
